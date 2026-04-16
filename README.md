@@ -4,8 +4,8 @@
 This is a full stack application with frontend and backend.
 
 ## Live Links
-Frontend: https://your-frontend-url.onrender.com  
-Backend: https://your-backend-url.onrender.com  
+Frontend: https://frontend-app-0qf9.onrender.com  
+Backend: https://fusionpact-devops-challenge-9mdt.onrender.com  
 
 ## Run Locally
 docker compose up -d
